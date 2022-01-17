@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GalleryStorage</string>
+    <string name="upload_image">Upload image</string>
+    <string name="choose_image">Choose image</string>
+</resources>
